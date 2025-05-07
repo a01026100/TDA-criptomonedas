@@ -46,14 +46,17 @@ Estructura de la base de datos
 <img width="635" alt="image" src="https://github.com/user-attachments/assets/7826e74c-fb5a-4c0f-b501-903ced8f272b" />
 
 Lente con Densidad Y UMAP
+
 <img width="507" alt="image" src="https://github.com/user-attachments/assets/f2645800-3b8c-4675-9eed-d62bef68589f" />
 
 <img width="496" alt="image" src="https://github.com/user-attachments/assets/59aebe2a-23cc-4908-8b3b-36233750a294" />
 
 Aplicación de Mapper
+
 <img width="642" alt="image" src="https://github.com/user-attachments/assets/a8159edb-25bd-432d-a547-6c7857157b73" />
 
 Grafo de Mapper
+
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/9048d3c6-d33e-40e1-a737-64b1504064ef" />
 
 
