@@ -55,6 +55,8 @@ Aplicación de Mapper
 
 <img width="642" alt="image" src="https://github.com/user-attachments/assets/a8159edb-25bd-432d-a547-6c7857157b73" />
 
+Inicializa KeplerMapper, proyecta los datos con el lente, los segmenta en cubos solapados, agrupa con DBSCAN, ensambla el grafo de Mapper y genera tanto una visualización interactiva (HTML) como estática (Matplotlib).
+
 Grafo de Mapper
 
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/9048d3c6-d33e-40e1-a737-64b1504064ef" />
